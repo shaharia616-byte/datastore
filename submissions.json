@@ -43,5 +43,27 @@
     "status": "accepted",
     "submitted": 1785929188789,
     "reviewedAt": 1785929217101
+  },
+  {
+    "id": "smsg34wo976r4v2",
+    "realName": "Santo",
+    "gameName": "COBRA",
+    "gameUid": "",
+    "whatsapp": "+880 1906-813118",
+    "telegram": "https://www.facebook.com/santo.sfpj.1804",
+    "telegramPhoto": null,
+    "platform": [
+      "mobile"
+    ],
+    "division": "Khulna",
+    "zila": "Bagerhat",
+    "upzilla": "",
+    "detailedAddress": "",
+    "roles": [
+      "Sniper"
+    ],
+    "submitterToken": "uwy91juf2e4",
+    "status": "pending",
+    "submitted": 1785934242153
   }
 ]

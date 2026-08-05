@@ -29,7 +29,6 @@
     "gameUid": "sdfsdf",
     "whatsapp": "dfsdf",
     "telegram": "sfsdfsd",
-    "telegramPhoto": null,
     "platform": [
       "pc"
     ],
@@ -41,7 +40,8 @@
       "leader"
     ],
     "submitterToken": "up765ukgtv7",
-    "status": "pending",
-    "submitted": 1785929188789
+    "status": "accepted",
+    "submitted": 1785929188789,
+    "reviewedAt": 1785929217101
   }
 ]

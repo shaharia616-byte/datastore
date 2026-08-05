@@ -48,5 +48,30 @@
     "verification": "pending",
     "suspicious": false,
     "updated": 1785934299150
+  },
+  {
+    "id": "rmsg3671ofxddb5",
+    "realName": "Santo",
+    "gameName": "COBRA",
+    "gameUid": "",
+    "whatsapp": "+880 1906-813118",
+    "telegram": "https://www.facebook.com/santo.sfpj.1804",
+    "division": "Khulna",
+    "zila": "Bagerhat",
+    "upzilla": "",
+    "detailedAddress": "",
+    "roles": [
+      "Sniper"
+    ],
+    "rating": 5,
+    "behavior": "normal",
+    "note": "COBRA — SNIPER \nদূর থেকে enemy-এর গুরুত্বপূর্ণ target শনাক্ত করে precise shot নেওয়াই COBRA-এর প্রধান দায়িত্ব।\nTeam-এর জন্য long-range cover দেওয়া এবং enemy-এর movement ও position সম্পর্কে তথ্য দেওয়ায় গুরুত্বপূর্ণ ভূমিকা রাখে।\nসুযোগ বুঝে accurate snipe দিয়ে enemy-এর advantage কমিয়ে team-এর জন্য opening তৈরি করে।\nDeadly Aim • Long-Range Support • Perfect Precision. \n",
+    "contactPassword": "",
+    "platform": [
+      "mobile"
+    ],
+    "verification": "pending",
+    "suspicious": false,
+    "updated": 1785934302252
   }
 ]

@@ -6,7 +6,6 @@
     "gameUid": "dfsdf",
     "whatsapp": "sfsdfsdf",
     "telegram": "fsdfsdf",
-    "telegramPhoto": null,
     "platform": [
       "pc"
     ],
@@ -18,7 +17,9 @@
       "sniper"
     ],
     "submitterToken": "up765ukgtv7",
-    "status": "pending",
-    "submitted": 1785928679467
+    "status": "rejected",
+    "submitted": 1785928679467,
+    "rejectReason": "dfdsf",
+    "reviewedAt": 1785929088872
   }
 ]

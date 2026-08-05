@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "rmsg0561x1ajjut",
+    "realName": "abalsdfdsf",
+    "gameName": "sdfsdfs",
+    "gameUid": "sdfsdf",
+    "whatsapp": "dfsdf",
+    "telegram": "sfsdfsd",
+    "division": "rajshahi",
+    "zila": "Rajshahi",
+    "upzilla": "Puthia",
+    "detailedAddress": "sdfsdfsdfdsdsf",
+    "roles": [
+      "leader"
+    ],
+    "rating": 4,
+    "behavior": "good",
+    "note": "",
+    "contactPassword": "555",
+    "platform": [
+      "pc"
+    ],
+    "verification": "pending",
+    "suspicious": false,
+    "updated": 1785929215461
+  }
+]

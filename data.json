@@ -40,13 +40,13 @@
     "roles": [
       "Sniper"
     ],
-    "rating": 5,
+    "rating": 4,
     "behavior": "good",
     "verification": "fair",
     "suspicious": false,
     "note": "COBRA — SNIPER \nদূর থেকে enemy-এর গুরুত্বপূর্ণ target শনাক্ত করে precise shot নেওয়াই COBRA-এর প্রধান দায়িত্ব।\nTeam-এর জন্য long-range cover দেওয়া এবং enemy-এর movement ও position সম্পর্কে তথ্য দেওয়ায় গুরুত্বপূর্ণ ভূমিকা রাখে।\nসুযোগ বুঝে accurate snipe দিয়ে enemy-এর advantage কমিয়ে team-এর জন্য opening তৈরি করে।\nDeadly Aim • Long-Range Support • Perfect Precision.",
     "contactPassword": "",
     "id": "rmsg364nigqqhm4",
-    "updated": 1785934370033
+    "updated": 1785934559235
   }
 ]

@@ -51,7 +51,6 @@
     "gameUid": "",
     "whatsapp": "+880 1906-813118",
     "telegram": "https://www.facebook.com/santo.sfpj.1804",
-    "telegramPhoto": null,
     "platform": [
       "mobile"
     ],
@@ -63,7 +62,8 @@
       "Sniper"
     ],
     "submitterToken": "uwy91juf2e4",
-    "status": "pending",
-    "submitted": 1785934242153
+    "status": "accepted",
+    "submitted": 1785934242153,
+    "reviewedAt": 1785934300973
   }
 ]
